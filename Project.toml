@@ -7,6 +7,7 @@ version = "0.1.0"
 GadgetIO = "826b50da-1eb7-48f3-bd4b-d2350582c309"
 
 [compat]
+GadgetIO = "0.4"
 julia = "1.6"
 
 [extras]
